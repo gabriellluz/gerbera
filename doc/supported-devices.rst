@@ -243,7 +243,7 @@ Snazio
 
 Sony
 ~~~~
-
+-  TV KDL 32EX525
 -  Playstation 3
 
 Firmware 1.80 introduces UPnP/DLNA support, add the following to the <server> section of your configuration file to enable Gerbera PS3 compatibility:
